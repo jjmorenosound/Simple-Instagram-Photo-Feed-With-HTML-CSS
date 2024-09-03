@@ -1,0 +1,60 @@
+body {
+    background: rgb(221, 217, 217);
+    margin:0%
+}
+
+
+div.post {
+    align-self: center;
+    background: white;
+   
+    padding-bottom: 25px;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 40%;
+   
+}
+div.header {
+    background: white;
+    display: flex;
+    text-align:center;
+    width: 100%;
+    height: 60px;
+}
+h1 {
+      margin: auto;
+      width: 50%;
+      border: 3px solid black:
+      padding: 5px;
+   }
+
+ div.namedate {
+    display:flex;
+    height: 5px;
+    padding-bottom: 10%;
+   
+}
+div.name {
+    width: 50%;
+    text-align: left;
+  
+}
+div.date {
+    width: 50%;
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 10px;
+    
+}
+img {
+    width: 761px;
+    height: 400px;
+    object-fit:contain;
+    margin-left: none;
+    margin-right: none;
+    background: whitesmoke;
+}
+div.description {
+padding-top: 20px;
+}
